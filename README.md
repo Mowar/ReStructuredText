@@ -3,4 +3,4 @@
 ### 使用方式
 
 ### document
-[RST](https://rstd.readthedocs.io/en)
+[RST](https://rstd.readthedocs.io)
