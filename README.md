@@ -1,5 +1,6 @@
-# My_Study_ReStructuredText
-我对RST的学习
-
+## ReStructuredText(RST)学习笔记
 
 ### 使用方式
+
+### document
+[RST](https://rstd.readthedocs.io/en)
