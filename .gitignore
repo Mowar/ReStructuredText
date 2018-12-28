@@ -1,7 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### VisualStudioCode template
 .vscode/*
-.vs
 .vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -10,3 +9,4 @@
 source/_static/
 /.gitignore
 /.vscode/
+/.vs/
