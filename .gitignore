@@ -12,5 +12,5 @@ source/_static/
 /.vscode/settings.json
 !/.gitignore
 /source/.vscode/
-.idea
+.idea/*
 
