@@ -44,7 +44,3 @@
 -l              列出详细信息
 --color=auto    美化输出
 --version       显示版本
-
-
-
-

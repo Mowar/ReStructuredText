@@ -6,7 +6,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
-source/_static/
 /.vscode/
 /.vs/
 /.vscode/settings.json

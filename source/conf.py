@@ -49,9 +49,9 @@ master_doc = 'index'
 
 # General information about the project.
 
-project = 'My_Study_ReStructuredText'
-copyright = '2018, zhaojiedi1992@outlook.com'
-author = 'zhaojiedi1992@outlook.com'
+project = 'ReStructuredText'
+copyright = '2018,Mowar'
+author = 'Mowar'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -120,7 +120,7 @@ html_sidebars = {
 
 # Output file base name for HTML help builder.
 
-htmlhelp_basename = 'My_Study_ReStructuredTextdoc'
+htmlhelp_basename = 'ReStructuredText'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -146,8 +146,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'My_Study_ReStructuredText.tex', 'My\\_Study\\_ReStructuredText Documentation',
-     'zhaojiedi1992@outlook.com', 'manual'),]
+    (master_doc, 'ReStructuredText.tex', 'ReStructuredText Documentation',
+     'Mowar', 'manual'),]
 
 
 # -- Options for manual page output ---------------------------------------
@@ -155,7 +155,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'my_study_restructuredtext', 'My_Study_ReStructuredText Documentation',
+    (master_doc, 'ReStructuredText', 'ReStructuredText Documentation',
      [author], 1)
 ]
 
@@ -165,10 +165,10 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'My_Study_ReStructuredText', 'My_Study_ReStructuredText Documentation',
-     author, 'My_Study_ReStructuredText', 'One line description of project.',
+    (master_doc, 'ReStructuredText', 'ReStructuredText Documentation',
+     author, 'ReStructuredText', 'One line description of project.',
      'Miscellaneous'),
 ]
 
-domain='linuxpanda.tech'
-site_url = 'http://' + project.replace('_','-') + "." + domain +"/"
+# domain='linuxpanda.tech'
+# site_url = 'http://' + project.replace('_','-') + "." + domain +"/"
