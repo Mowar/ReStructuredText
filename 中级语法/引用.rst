@@ -2,7 +2,7 @@
 引用
 ===============
 
-引用参考，[cit2002]_。
+Lorem ipsum [Ref]_ dolor sit amet.
 
-..  [cit2002]   这个地方应该介绍下cit2002的。
+.. [Ref] Book or article reference, URL or whatever.
 

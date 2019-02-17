@@ -7,7 +7,10 @@
     :maxdepth: 2
     :numbered: 2
 
-    标题
+    Sections
+    content
     段落
     列表
     块
+    math
+    diagrams

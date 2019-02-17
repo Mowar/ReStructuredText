@@ -8,14 +8,12 @@
     :numbered:
 
 
-    表格
+    source-code 
+    Comments 
+    Hypelinks
+    Images
+    Tables
     水平线
     显式标记
     引用
-    超链接
-    图片
     替换引用和定义
-    注释
-    code-line 
-    code-block 
-    code-file 

@@ -2,17 +2,21 @@
 段落级别标记
 ==================================
 
-.. note:: 这是note
+.. note:: Note directive
 
-.. warning:: 这是warning
+.. warning:: Warning directive
+
+.. seealso:: seealso directive
+
+.. admonition:: This is a style convention.
+
+    This is a style convention
 
 .. versionadded:: 2.5
 
 .. versionchanged:: 2.6
 
 .. deprecated:: 1.0
-
-.. seealso:: 这是seealso
 
 .. rubric:: 这是rubric
 
@@ -27,6 +31,3 @@
    * item3
    * item4
    * item5
-
-
-   
